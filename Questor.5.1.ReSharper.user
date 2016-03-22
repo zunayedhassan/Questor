@@ -1,0 +1,125 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="6762" fromTop="162" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="31" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="11" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="18" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="20" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="11" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="13" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="21" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="21" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="16" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="11" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="23" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="20" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7520" fromTop="31" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="268" fromTop="11" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="584" fromTop="9" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="4115" fromTop="31" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="446" fromTop="17" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="4470" fromTop="11" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="4872" fromTop="19" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="4453" fromTop="9" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="5306" fromTop="20" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="6282" fromTop="19" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="6762" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="3" />
+      <Item value="Button`0" priority="1" />
+      <Item value="browseButton" priority="8" />
+      <Item value="new" priority="9" />
+      <Item value="Button" priority="0" />
+      <Item value="Size" priority="1" />
+      <Item value="Point" priority="0" />
+      <Item value="mainPanel" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="EventArgs`0" priority="1" />
+      <Item value="FolderBrowserDialog`0" priority="3" />
+      <Item value="folderBrowserDialog" priority="8" />
+      <Item value="FolderBrowserDialog" priority="2" />
+      <Item value="string" priority="6" />
+      <Item value="locationTextBox" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="AnchorStyles`0" priority="1" />
+      <Item value="FindingNemoForm`0" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="searchResultTextBox" priority="4" />
+      <Item value="searchResult" priority="3" />
+      <Item value="file" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="inputTextBox" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="sender" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="0" />
+      <Item value="Size" priority="1" />
+      <Item value="Location" priority="0" />
+      <Item value="Click" priority="1" />
+      <Item value="Anchor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Container" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="SelectedPath" priority="1" />
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="ShowNewFolderButton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="2" />
+      <Item value="ReadOnly" priority="0" />
+      <Item value="Refresh`0" priority="2" />
+      <Item value="AppendText`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.AnchorStyles">
+      <Item value="Top" priority="0" />
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Questor.FindingNemoForm">
+      <Item value="Resize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

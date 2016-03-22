@@ -1,0 +1,48 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="searchResultLabel" priority="1" />
+      <Item value="dirCount" priority="2" />
+      <Item value="fileCount" priority="2" />
+      <Item value="file" priority="0" />
+      <Item value="searchResultTextBox" priority="0" />
+      <Item value="true" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+      <Item value="AutoSize" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="5117" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="4019" fromTop="18" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="635" fromTop="13" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="6504" fromTop="6" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="7139" fromTop="18" />
+      <File id="B7B1B479-03AA-4AED-A2D3-5097C73E8FD6/f:FindingNemoForm.cs" caret="5171" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
